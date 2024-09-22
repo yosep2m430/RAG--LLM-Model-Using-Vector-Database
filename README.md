@@ -1,4 +1,4 @@
-# RAG-LLM-Model-Using-Vector-Database
+# Retrieval Augmented Generation Chatbot- Medical Service Decision Prediction
 ![img01](https://github.com/user-attachments/assets/5d83a1fc-787f-4d18-bbd8-24077cd90dc0)
 
 We are living in an age surrounded by countless machine learning models. We're inundated by even more possibilities- to better everyone's lives. An area where machine learning technology can be useful is healthcare. There are different areas within healthcare, from payments to treatments, that pose uncertainties. Going through medical treatments are difficult and financially burdensome, but even with enough means, whether a patient will receive a treatment needed/ wanted is not certain.
